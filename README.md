@@ -8,3 +8,6 @@ ANLPIR 2016 Course Repository
 * [NLPDemoXmiCas](https://github.com/Anton87/NERDemo/wiki/NLPDemoXmiWriter): A simple application that reads text from a file and print 1) sentences, 2) tokens, 3) POSs, 4) lemmas,  5) named -ntities and 6) constituency-based parse trees. The result of the processing are printed to the console and saved to a file in xmi format to file. The app uses UIMA and DKPro.
 
 * [Minimal Structural Reranking Pipeline](https://github.com/mnicosia/minimalpipeline): Stripped down version of the reranking pipeline. You can find more information at the provided link.
+
+* [How to Write an Annotator](https://github.com/mnicosia/minimalpipeline/wiki/How-to-write-an-annotator): A brief tutorial on how to write a simple UIMA annotator using custom types. 
+
