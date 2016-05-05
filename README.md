@@ -11,3 +11,4 @@ ANLPIR 2016 Course Repository
 
 * [How to Write an Annotator](https://github.com/mnicosia/minimalpipeline/wiki/How-to-write-an-annotator): A brief tutorial on how to write a simple UIMA annotator using custom types. The code is above: see revtokenizer. 
 
+* [Reranking Pipeline with Question Categories and Question Focus](https://github.com/ktymoshenko/minimalpipeline): Stripped down version of the reranking pipeline that also encodes question category and question focus information inside the structural representations of text. You can find more information at the provided link.
