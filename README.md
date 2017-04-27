@@ -1,4 +1,4 @@
-# ANLPIR 2017 and 216 Course Repository
+# ANLPIR 2017 and 2016 Course Repository
 
 2017 projects can be found in the projects folder.
 
