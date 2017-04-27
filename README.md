@@ -7,6 +7,8 @@ The following projects are not valid for the 2017 course:
 
 ---
 
+## Code examples and slides
+
 * [POS-NER Tutorial](https://github.com/mnicosia/anlpir-2016/tree/master/pos-ner): Slides and tools for running a Part-of-Speech tagger and a Named Entity Recognizer.
 
 * [NERDemo](https://github.com/Anton87/NERDemo/wiki/NERDemo): A simple demo showing how to perform many tasks such as 1) text segmentation, 2) POS tagging, 3) lemmatization and 4) named-entity recognition. The processing results are save to a file in CONLL format. The app uses UIMA and DKPro.
