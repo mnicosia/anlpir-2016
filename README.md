@@ -1,5 +1,11 @@
-# anlpir-2016
-ANLPIR 2016 Course Repository
+# ANLPIR 2017 and 216 Course Repository
+
+2017 projects can be found in the projects folder.
+
+The following projects are not valid for the 2017 course:
+* [2016 projects by Massimo](https://github.com/mnicosia/anlpir-2016/blob/master/projects/massimo-nicosia.pdf)
+
+---
 
 * [POS-NER Tutorial](https://github.com/mnicosia/anlpir-2016/tree/master/pos-ner): Slides and tools for running a Part-of-Speech tagger and a Named Entity Recognizer.
 
