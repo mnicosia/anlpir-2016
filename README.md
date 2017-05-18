@@ -1,3 +1,7 @@
+# ANLPIR 2017 List of projects 
+The whole list of projects can be found here:
+* [anlpir 2017 projects](https://docs.google.com/document/d/14h9ondHEcp2ZBe5-dvA6I0XGdo7tFs0qNWH8X9w-fiY)
+
 # ANLPIR 2017 and 2016 Course Repository
 
 2017 projects can be found in the projects folder.
